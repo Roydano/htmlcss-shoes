@@ -67,21 +67,36 @@ a{
 
 /* main */
 
+.content-section{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h2{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.txt-ylw{
+    color: yellow;
+}
+
 #scarpa-1{
     height: 100vh;
-    width: 100%;
     background-color: red;
+    position: relative;
 }
+
 
 #scarpa-2{
     height: 100vh;
-    width: 100%;
     background-color: green;
 }
 
 #scarpa-3{
     height: 100vh;
-    width: 100%;
     background-color: yellow;
 }
 
