@@ -65,6 +65,27 @@ a{
 }
 
 
+/* main */
+
+#scarpa-1{
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+}
+
+#scarpa-2{
+    height: 100vh;
+    width: 100%;
+    background-color: green;
+}
+
+#scarpa-3{
+    height: 100vh;
+    width: 100%;
+    background-color: yellow;
+}
+
+
 
 
 /* sezione hover */
@@ -78,7 +99,7 @@ a{
 
 /* debug */
 
-.debug nav{
+/* .debug nav{
     height: 150px;
     background-color: crimson;
-}
+} */
